@@ -1,0 +1,7 @@
+C:\Users\Nikita\source\repos\Valut\Valut\bin\Debug\Valut.exe.config
+C:\Users\Nikita\source\repos\Valut\Valut\bin\Debug\Valut.exe
+C:\Users\Nikita\source\repos\Valut\Valut\bin\Debug\Valut.pdb
+C:\Users\Nikita\source\repos\Valut\Valut\obj\Debug\Valut.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\Valut\Valut\obj\Debug\Valut.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\Valut\Valut\obj\Debug\Valut.exe
+C:\Users\Nikita\source\repos\Valut\Valut\obj\Debug\Valut.pdb
